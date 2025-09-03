@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI Generator Speech to Text; ideal for readers <br>🤝 An Software Engineering that major in Computer Science in USF<br>🌱 I’m currently learning IBM Data Science Certification<br>
+🔭 I’m currently working on AI Generator Speech to Text; ideal for readers <br>🤝 An Software Engineering that major in Computer Science in USF<br><br>
 
 
 ## 🌐 Socials:
