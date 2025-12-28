@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Building Noutri AI🤝 An Software Engineering that major in Computer Science at USF<br><br>
+🔭 Building Noutri AI
+🤝 An Software Engineering that major in Computer Science at USF<br><br>
 
 
 ## 🌐 Socials:
