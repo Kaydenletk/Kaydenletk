@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI Generator Speech to Text; ideal for readers <br>🤝 An Software Engineering that major in Computer Science at USF<br><br>
+🔭 Building Noutri AI🤝 An Software Engineering that major in Computer Science at USF<br><br>
 
 
 ## 🌐 Socials:
