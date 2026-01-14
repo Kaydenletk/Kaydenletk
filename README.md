@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building Noutri AI
+🔭 Building Rezoomind <https://rezoomind.vercel.app/>
 🤝 An Software Engineering that major in Computer Science at USF<br><br>
 
 
