@@ -1,7 +1,5 @@
 # 👋 About Me
-- 🎓 Computer Science Undergrad focusing on **Backend Engineering & AI**.
 - 🔭 Recently launched **[Rezoomind](https://rezoomind.vercel.app/)**, an automated internship tracker.
-- 🌱 Currently deep-diving into **C, Python, and System Design**.
 - 💼 Actively seeking **Summer 2026 SWE Internships**.
 - ⚡ Fun fact: I write scripts to automate my daily tasks so I have more time to code.
 
