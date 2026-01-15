@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I write scripts to automate my daily tasks so I have more time to code.
 
 ## 🌐 Socials:
-- My portfolio: **[kaydenle.com](https://kaydenle.com)**
+- My portfolio: **[kaydenle.dev](https://kaydenle.com)**
 (https://linkedin.com/in/https://www.linkedin.com/in/kaydenle/) 
 
 # 💻 Tech Stack:
