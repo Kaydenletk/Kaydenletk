@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 
-- My portfolio: **[kaydenle.dev](https://kaydenle.com)**
+- My portfolio: **[kaydenle.dev](https://kaydenle.dev)**
 - [linkedin.com/in/kaydenle/](https://linkedin.com/in/kaydenle/)
 
 ## 📊 GitHub Stats:
